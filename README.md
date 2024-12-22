@@ -1,8 +1,5 @@
 # BubbleGame
 fun and interactive game ;)
-Here is a professional and well-structured README for your GitHub repository:
-
----
 
 # BubbleGame 🎮
 
